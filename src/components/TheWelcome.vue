@@ -26,9 +26,9 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #heading>Tooling</template>
 
     This project is served and bundled with
-    <a href="https://vitejs.dev/guide/features.html" target="_blank" rel="noopener">Vite你好21</a>.
-    The recommended IDE setup is
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">Vite你好21</a> +
+    <a href="https://vitejs.dev/guide/features.html" target="_blank" rel="noopener">Vite21</a>. The
+    recommended IDE setup is
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">VSCode21</a> +
     <a href="https://github.com/johnsoncodehk/volar" target="_blank" rel="noopener">Volar</a>. If
     you need to test your components and web pages, check out
     <a href="https://www.cypress.io/" target="_blank" rel="noopener">Cypress</a> and
